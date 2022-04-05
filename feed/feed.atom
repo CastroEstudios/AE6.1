@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Daniel Castro feed RSS</title>
+    <link href="https://castroestudios.github.io/AE6.1/feed/feed.atom" rel="self" type="application/atom+xml" />
+    <updated>2022-04-05T15:35:00-01:00</updated>
+    <author><name>Daniel Castro</name></author>
+    <id>https://castroestudios.github.io/AE6.1/rss/atom.atom</id>
+
+    <entry>
+        <title>La FDA autoriza la cuarta de Pfizer y Moderna para mayores de 50 años</title>
+        <link href="https://www.cnbc.com/2022/03/29/fda-authorizes-fourth-pfizer-covid-vaccine-dose-for-people-age-50-and-older-.html" />
+        <id>https://www.cnbc.com/2022/03/29/fda-authorizes-fourth-pfizer-covid-vaccine-dose-for-people-age-50-and-older-.html</id>
+        <updated>2022-04-05T15:35:00-01:00</updated>
+        <content>FDA Autoriza 4a dosis vacuna</content>
+    </entry>
+</feed>

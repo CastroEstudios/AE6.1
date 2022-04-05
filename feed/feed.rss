@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+    <channel>
+        <title>Daniel Castro feed RSS</title>
+        <link>https://castroestudios.github.io/AE6.1/</link>
+        <atom:link href="https://castroestudios.github.io/AE6.1/feed/feed.rss" rel="self" type="application/rss+xml" />
+        <description>RSS para noticias importantes</description>
+        <language>ES</language>
+        <pubDate>Tue, 29 Mar 2022 16:33 GMT</pubDate>
+
+        <item>
+            <title>La FDA autoriza la cuarta de Pfizer y Moderna para mayores de 50 años</title>
+            <link>https://www.cnbc.com/2022/03/29/fda-authorizes-fourth-pfizer-covid-vaccine-dose-for-people-age-50-and-older-.html</link>
+            <guid>https://www.cnbc.com/2022/03/29/fda-authorizes-fourth-pfizer-covid-vaccine-dose-for-people-age-50-and-older-.html</guid>
+            <description>Contenido</description>
+        </item>
+
+    </channel>
+
+</rss>

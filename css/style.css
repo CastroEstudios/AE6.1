@@ -1,0 +1,50 @@
+
+html, body {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-container {
+    box-shadow: 0px 0px 25px 10px black;
+}
+
+.main-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 60%;
+    padding: 5%;
+    margin: 8%;
+}
+
+.top, .bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    gap: 5px solid black;
+}
+
+.link-rss {
+    width: 30%;
+}
+
+.link-rss img {
+    background-color: transparent;
+    border-radius: 20px;
+    width: 100%;
+}
+
+div a {
+    width: 25%;
+    margin: 4%;
+}
+
+div a img {
+    width: 100%;
+}
